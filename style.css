@@ -76,6 +76,10 @@ a:visited {
 	color: deeppink;
 }
 
+.sources {
+	display: block;
+}
+
 .resources {
 	margin: 0;
 	padding: 0;
