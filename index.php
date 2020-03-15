@@ -61,8 +61,7 @@ $points = [
   <![endif]-->
 
   <!-- Add your site or application content here -->
-  <h1 class="title">Don't be a #COV<span class="idiot">IDIOT!</span></h1>
-
+  <h1 class="title">Don't be a #COVIDDENIER</h1>
   <ul class="points">
 
   <?php foreach( $points as $point) : ?>
