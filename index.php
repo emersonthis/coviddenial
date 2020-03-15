@@ -40,11 +40,9 @@ $points = [
 
 <head>
   <meta charset="utf-8">
-  <title></title>
-  <meta name="description" content="">
+  <title>Don't be a COVID-19 denier!</title>
+  <meta name="description" content="Consice answers to common misconceptions about the COVID-19 pandemic">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="style.css">
