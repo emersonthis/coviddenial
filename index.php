@@ -93,6 +93,7 @@ $points = [
 
   <h2 class="subtitle">Contribute</h2>
   <div>This is an <a href="https://github.com/emersonthis/coviddenial">open source project</a>.</div>
+  <div>You can also <a href="mailto:emersonthis@gmail.com?subject=coviddenial.com">email me</a> comments or contributions.</div>
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <!-- <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
