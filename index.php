@@ -49,6 +49,16 @@ $points = [
 <html class="no-js" lang="">
 
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160623037-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-160623037-1');
+  </script>
+
   <meta charset="utf-8">
   <title>Don't be a COVID-19 denier!</title>
   <meta name="description" content="Consice answers to common misconceptions about the COVID-19 pandemic">
@@ -94,12 +104,6 @@ $points = [
   <h2 class="subtitle">Contribute</h2>
   <div>This is an <a href="https://github.com/emersonthis/coviddenial">open source project</a>.</div>
   <div>You can also <a href="mailto:emersonthis@gmail.com?subject=coviddenial.com">email me</a> comments or contributions.</div>
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <!-- <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script> -->
 </body>
 
 </html>

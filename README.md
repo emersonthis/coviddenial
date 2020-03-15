@@ -1,4 +1,4 @@
-# COVIDDENIAL.COM
+# COVIDDENIAL.ORG
 
 Thanks for your interest in this project. The goal is to raise awareness and provide clear, concise answers to common misconceptions about the pandemic.
 
