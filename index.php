@@ -18,7 +18,7 @@ $points = [
   ],
   [
     'misunderstanding' => 'There are no infections near me.',
-    'understanding' => 'There are! But you cannot <strong>see</strong> them yet because there is a two week delay between the time of infection and when someone shows symptoms. During that time, the infected person is contagious and spreading the infection. For every single diagnosed case of COVID-19, there are hundreds of undiagnosed cases. For this reason, our only chance to avoid a massive public health disaster is if we take preventative measures <strong>before</strong> we see it everywhere.',
+    'understanding' => 'There are almost definitely infections near you! But you cannot <strong>see</strong> them yet because there is a two week delay between the time of infection and when someone shows symptoms. During that time, the infected person is contagious and spreading the infection. For every single diagnosed case of COVID-19, there are hundreds of undiagnosed cases. For this reason, our only chance to avoid a massive public health disaster is if we take preventative measures <strong>before</strong> we see it everywhere.',
     'anchor' => 'notnear',
     'sources' => ['https://www.cnn.com/2020/03/14/health/coronavirus-asymptomatic-spread/index.html']
   ],
@@ -54,13 +54,9 @@ $points = [
   <meta name="description" content="Consice answers to common misconceptions about the COVID-19 pandemic">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Place favicon.ico in the root directory -->
-
-  <link rel="stylesheet" href="./style.css?v=1">
-
+  <link rel="stylesheet" href="./style.css?v=2">
   <meta name="theme-color" content="deeppink">
-
-  <link href="https://fonts.googleapis.com/css?family=Asap:400,700,700i&display=swap" rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800&display=swap" rel="stylesheet">
 </head>
 
 <body>
