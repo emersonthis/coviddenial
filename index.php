@@ -78,6 +78,13 @@ $points = [
 
   </ul>
 
+  <h2 class="subtitle">Resources</h2>
+  <ul class="resources">
+    <li><a href="https://flattenthecurve.com">https://flattenthecurve.com</a></li>
+    <li><a href="https://staythefuckhome.com/">https://staythefuckhome.com</a></li>
+    <li><a href="https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca">Coronavirus: Why You Must Act Now/</a></li>
+  </ul>
+
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <!-- <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
