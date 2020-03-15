@@ -84,6 +84,8 @@ $points = [
     <li><a href="https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca">Coronavirus: Why You Must Act Now/</a></li>
   </ul>
 
+  <h2 class="subtitle">Contribute</h2>
+  <div>This is an <a href="https://github.com/emersonthis/coviddenial">open source project</a>.</div>
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <!-- <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
